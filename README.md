@@ -5,6 +5,7 @@ During my internship with the company, I learned developing complex UI and integ
 
 
 **Intern Duration:** 5 May 2021 - 28 June 2021
+**Play Store Link:** https://play.google.com/store/apps/details?id=com.direction_educare.kendel
 
 ## Tech Stack
 -  Java, Kotlin 
